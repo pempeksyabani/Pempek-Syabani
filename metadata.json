@@ -1,0 +1,6 @@
+{
+  "name": "Pempek Syabani",
+  "description": "Aplikasi pembukuan dan manajemen usaha Pempek Syabani: pencatatan pesanan, arus kas pemasukan dan pengeluaran, laba rugi otomatis, rekapitulasi harian dan bulanan, ekspor PDF/Excel, serta dashboard tren pendapatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
